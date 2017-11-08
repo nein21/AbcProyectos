@@ -1,0 +1,16 @@
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\hibernate.cfg.xml
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\Producto.hbm.xml
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\AbcProyecto.exe.config
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\AbcProyecto.exe
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\AbcProyecto.pdb
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\Iesi.Collections.dll
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\NHibernate.dll
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\Iesi.Collections.xml
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\bin\Debug\NHibernate.xml
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.Form1.resources
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.ModalInsertar.resources
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.ModalUpdate.resources
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.Properties.Resources.resources
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.csproj.GenerateResource.Cache
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.exe
+C:\Users\PROMEXING\documents\visual studio 2015\Projects\AbcProyecto\AbcProyecto\obj\Debug\AbcProyecto.pdb
